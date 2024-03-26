@@ -1,2 +1,3 @@
-package App;public interface Winnable {
+package App;
+public interface Winnable {
 }
